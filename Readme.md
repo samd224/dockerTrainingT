@@ -1,6 +1,6 @@
 # Docker Tuto
 
-Dans ce projet, nous explorons les concepts suivants :
+- Dans ce projet, nous explorons les concepts suivants :
 
     Docker
     Les serveurs tels qu'Apache2.
@@ -22,11 +22,13 @@ Clonage du projet
 
 Pour travailler sur ce projet, vous pouvez soit le cloner, soit le forker.
 
-Pour le cloner, utilisez la commande :
-
-$ git clone git@github.com:rougeo/dockerTraining-01.git  
+- Pour le cloner, utilisez la commande :
+'''
+$ git clone git@github.com:rougeo/dockerTraining-01.git
+'''
+'''
   git clone https://github.com/samd224/dockerTrainingT
-
+'''
 Installation
 Script
 
